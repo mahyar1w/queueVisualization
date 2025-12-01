@@ -18,8 +18,8 @@ Build instructions for arch linux:
 The executable should be in build/release.
 ## screenshoots
 
-![](/home/mahyar/Pictures/Screenshots/Screenshot From 2025-12-01 18-11-29.png)
+![](assets/Screenshot From 2025-12-01 18-11-20.png)
 
-![](/home/mahyar/Pictures/Screenshots/Screenshot From 2025-12-01 18-11-38.png)
+![](assets/Screenshot From 2025-12-01 18-11-29.png)
 
-![](/home/mahyar/Pictures/Screenshots/Screenshot From 2025-12-01 18-11-20.png)
+![](assets/Screenshot From 2025-12-01 18-11-38.png)
